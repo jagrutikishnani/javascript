@@ -1,3 +1,14 @@
+// THERE ARE TWO TYPE OF DATA TYPE 
+// 1 PRIMITIVE == VALUE BASED DATA TYPE
+  // [ STRING , NUMBER , BOOLEAN, BIGINT, SYMBOL, NULL , UNDEFINED]
+
+// 2 NON PRIMITIVE(REFERENCE DATATYPE) == REFERENCE BASED
+    // [ ARRAY , OBJECT , FUNCTION]
+
+
+
+
+
 "use strict" // it shows dat you are using newer virsion of java script
 let name = "meher"
 let age = 32
@@ -26,4 +37,7 @@ console.log(3+ 3) ; console.log("meher")  //code read ability should be high
 console.log(typeof null)  // - object
 console.log(typeof age)
 console.log(typeof undefined) //  - undefined
+
+   
+
  
